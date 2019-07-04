@@ -8,9 +8,13 @@ The 'src' folder contains the Java programs. You must run the file "main.java" t
 The 'data' folder contains examples of files to represent a maze. This program only works with rectangular mazes.
 
 The legend is:
+
 A <-> Arrival box
+
 D <-> Departure box
+
 E <-> Empty box
+
 W <-> Wall box
 
 When running 'main.java', you are asked to specify a maze file to open. You have the choice between using one of the files in the 'data' folder or one of your own. Note that you can modify the examples in the'data' folder as you wish.
